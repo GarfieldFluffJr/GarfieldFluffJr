@@ -1,7 +1,7 @@
 <h1>Hey, I'm <a href="https://github.com/GarfieldFluffJr">Louie</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-### **Software Engineering Student and Varsity Athlete at the University of Waterloo**
+### A **Software Engineering Student** and **Varsity Athlete** at the **University of Waterloo**
 
 ### 📬 Find me at
 
