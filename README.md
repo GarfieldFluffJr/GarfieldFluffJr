@@ -17,8 +17,9 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 - 🏋️‍♂️ I am a **2024 Paris Olympic Trials and Canadian USPORTS Qualifier**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
   - 💻 Full-stack Applications
-  - ⚙ Machine Learning
-  - 🗜 Firmware Projects
+  - 🎨 UI/UX and 3D Graphic Design
+  - 🐱‍💻 Machine Learning & Artificial Intelligence
+  - ⚙ Firmware Projects
 - 🧬 I have interests in Technological applications in Healthcare
 - 💬 Feel free to ask me anything software or swimming related!
 - 📙 Check out my [Resume](https://www.linkedin.com/in/louieyin/overlay/1739330322553/single-media-viewer/?profileId=ACoAAFN0g5UB5HrhwRMAexSW0Z1c74th4FyR_yE)
