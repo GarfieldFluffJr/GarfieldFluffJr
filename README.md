@@ -1,7 +1,7 @@
 <h1>Hey, I'm <a href="https://github.com/GarfieldFluffJr">Louie</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-### A **Software Engineering Student** and **Varsity Athlete** at the **University of Waterloo**
+### **Software Engineer** and **Varsity Athlete** at the **University of Waterloo**
 
 ### 📬 Find me on
 
@@ -21,8 +21,8 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
   - 💻 Full-stack Applications
   - 🎨 UI/UX and 3D Graphic Design
   - 🐱‍💻 Machine Learning & Artificial Intelligence
-  - ⚙ Firmware Projects
-- 🧬 I have interests in technological applications in healthcare
+      <!-- - ⚙ Firmware Projects -->
+    <!-- - 🧬 I have interests in technological applications in healthcare -->
 - 💬 Feel free to ask me anything software or swimming related!
 - 📙 Check out my [Resume](https://www.linkedin.com/in/louieyin/overlay/1739330322553/single-media-viewer/?profileId=ACoAAFN0g5UB5HrhwRMAexSW0Z1c74th4FyR_yE)
 - 🎉 Fun-Fact: I have a cat 🙀
@@ -42,6 +42,7 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Frameworks and Libraries:
 
@@ -66,8 +67,10 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EF1C25?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 🚀 Quick Stats
