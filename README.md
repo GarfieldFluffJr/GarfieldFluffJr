@@ -24,7 +24,7 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
       <!-- - ⚙ Firmware Projects -->
     <!-- - 🧬 I have interests in technological applications in healthcare -->
 - 💬 Feel free to ask me anything software or swimming related!
-- 📙 Check out my [Resume](https://www.linkedin.com/in/louieyin/overlay/1739330322553/single-media-viewer/?profileId=ACoAAFN0g5UB5HrhwRMAexSW0Z1c74th4FyR_yE)
+- 📙 Check out my [Resume](https://www.linkedin.com/in/louieyin/overlay/1750786398233/single-media-viewer/?profileId=ACoAAFN0g5UB5HrhwRMAexSW0Z1c74th4FyR_yE)
 - 🎉 Fun-Fact: I have a cat 🙀
 - 🎵 I also love playing the piano!
 
