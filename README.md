@@ -59,6 +59,7 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Prism.js](https://img.shields.io/badge/Prism.js-1A202C?style=for-the-badge&logo=prism&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 #### Tools and Platforms
 
@@ -74,6 +75,8 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EF1C25?style=for-the-badge&logo=autodesk&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🚀 Quick Stats
 
