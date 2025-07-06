@@ -1,20 +1,17 @@
 <h1>Hey, I'm <a href="https://github.com/GarfieldFluffJr">Louie</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-### **Software Engineer** and **Varsity Athlete** at the **University of Waterloo**
+### **Software Engineer** and **Varsity Athlete** at the **University of Waterloo** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img height="50px" src="https://emojis.slackmojis.com/emojis/images/1683175347/65881/kao_glasses_swimming.gif?1683175347">
 
 ### 📬 Find me on
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GarfieldFluffJr/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louieyin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louieyin6@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/louiefatooey)
 
-### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img height="50px" src="https://emojis.slackmojis.com/emojis/images/1683175347/65881/kao_glasses_swimming.gif?1683175347">
+I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwaterloo.ca/)** majoring in Software Engineering. I love coding in my free time and learning new technologies, while pursuing my swimming career at the national level.
 
-I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwaterloo.ca/)** majoring in Software Engineering. I'm a **Tech Enthusiast 💻 😃** and a **Varsity Athlete 🏊‍♂️ 🏊‍♂️** !! I love coding in my free time and learning new technologies, while pursuing my swimming career at the national level.
-
-## ⚡️ A Few Quick Facts
+## ⚡️ About Me
 
 - 🏋️‍♂️ I am a **2024 Paris Olympic Trials and Canadian USPORTS Qualifier**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
@@ -23,7 +20,7 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
   - 🐱‍💻 Machine Learning & Artificial Intelligence
       <!-- - ⚙ Firmware Projects -->
     <!-- - 🧬 I have interests in technological applications in healthcare -->
-- 💬 Feel free to ask me anything software or swimming related!
+<!-- - 💬 Feel free to ask me anything software or swimming related! -->
 - 📙 Check out my [Resume](https://www.linkedin.com/in/louieyin/overlay/1750786398233/single-media-viewer/?profileId=ACoAAFN0g5UB5HrhwRMAexSW0Z1c74th4FyR_yE)
 - 🎉 Fun-Fact: I have a cat 🙀
 - 🎵 I also love playing the piano!
