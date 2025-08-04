@@ -18,10 +18,10 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
   - 💻 Full-stack Applications
   - 🎨 UI/UX and 3D Graphic Design
   - 🐱‍💻 Machine Learning & Artificial Intelligence
-      <!-- - ⚙ Firmware Projects -->
-    <!-- - 🧬 I have interests in technological applications in healthcare -->
-<!-- - 💬 Feel free to ask me anything software or swimming related! -->
-- 📙 Check out my [Resume](https://www.linkedin.com/in/louieyin/overlay/1750786398233/single-media-viewer/?profileId=ACoAAFN0g5UB5HrhwRMAexSW0Z1c74th4FyR_yE)
+  <!-- - ⚙ Firmware Projects -->
+  <!-- - 🧬 I have interests in technological applications in healthcare -->
+  <!-- - 💬 Feel free to ask me anything software or swimming related! -->
+- 📙 Check out my [Resume](https://external-resume.tiiny.site)
 - 🎉 Fun-Fact: I have a cat 🙀
 - 🎵 I also love playing the piano!
 
