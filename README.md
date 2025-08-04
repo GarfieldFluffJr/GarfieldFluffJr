@@ -18,10 +18,10 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
   - 💻 Full-stack Applications
   - 🎨 UI/UX and 3D Graphic Design
   - 🐱‍💻 Machine Learning & Artificial Intelligence
-  <!-- - ⚙ Firmware Projects -->
-  <!-- - 🧬 I have interests in technological applications in healthcare -->
-  <!-- - 💬 Feel free to ask me anything software or swimming related! -->
-- 📙 Check out my [Resume](https://external-resume.tiiny.site)
+    <!-- - ⚙ Firmware Projects -->
+    <!-- - 🧬 I have interests in technological applications in healthcare -->
+    <!-- - 💬 Feel free to ask me anything software or swimming related! -->
+- 📙 Check out my <a href="https://external-resume.tiiny.site" target="_blank">Resume</a> <!-- [Resume](https://external-resume.tiiny.site) -->
 - 🎉 Fun-Fact: I have a cat 🙀
 - 🎵 I also love playing the piano!
 
