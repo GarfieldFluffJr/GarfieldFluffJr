@@ -21,7 +21,7 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
     <!-- - ⚙ Firmware Projects -->
     <!-- - 🧬 I have interests in technological applications in healthcare -->
     <!-- - 💬 Feel free to ask me anything software or swimming related! -->
-- 📙 Check out my [Resume](https://external-resume.tiiny.site)
+- 📙 Check out my [Resume](https://www.louiefatooey.space/resume)
 - 🎉 Fun-Fact: I have a cat 🙀
 - 🎵 I also love playing the piano!
 
