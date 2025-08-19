@@ -1,4 +1,4 @@
-<h1>Hey, I'm <a href="https://github.com/GarfieldFluffJr">Louie</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Hello! I'm <a href="https://github.com/GarfieldFluffJr">Louie</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### **Software Engineer** and **Varsity Athlete** at the **University of Waterloo** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img height="50px" src="https://emojis.slackmojis.com/emojis/images/1683175347/65881/kao_glasses_swimming.gif?1683175347">
@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louieyin6@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/louiefatooey)
 
-I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwaterloo.ca/)** majoring in Software Engineering. I love coding in my free time and learning new technologies, while pursuing my swimming career at the national level.
+I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwaterloo.ca/)** majoring in Software Engineering. I love building things in my free time and learning new technologies, while pursuing my swimming career at the national level.
 
 ## ⚡️ About Me
 
@@ -17,13 +17,13 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
   - 💻 Full-stack Applications
   - 🎨 UI/UX and 3D Graphic Design
-  - 🐱‍💻 Machine Learning & Artificial Intelligence
+  - 🐱‍💻 ML/AI
     <!-- - ⚙ Firmware Projects -->
     <!-- - 🧬 I have interests in technological applications in healthcare -->
     <!-- - 💬 Feel free to ask me anything software or swimming related! -->
 - 📙 Check out my [Resume](https://www.louiefatooey.space/resume)
-- 🎉 Fun-Fact: I have a cat 🙀
-- 🎵 I also love playing the piano!
+- 🙀 I have a cat 
+- 🎵 I love playing the piano!
 
 ### ⚙️ My Tools and Technologies
 
@@ -55,7 +55,7 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Prism.js](https://img.shields.io/badge/Prism.js-1A202C?style=for-the-badge&logo=prism&logoColor=white)
+<!-- ![Prism.js](https://img.shields.io/badge/Prism.js-1A202C?style=for-the-badge&logo=prism&logoColor=white) -->
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 #### Tools and Platforms
@@ -63,14 +63,14 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/Unix-003B57?style=for-the-badge&logo=gnu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
+<!-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
+<!-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<!-- ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) -->
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EF1C25?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
