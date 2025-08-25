@@ -22,7 +22,7 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
     <!-- - 🧬 I have interests in technological applications in healthcare -->
     <!-- - 💬 Feel free to ask me anything software or swimming related! -->
 - 📙 Check out my [Resume](https://www.louiefatooey.space/resume)
-- 🙀 I have a cat 
+- 🙀 I have a cat
 - 🎵 I love playing the piano!
 
 ### ⚙️ My Tools and Technologies
@@ -52,10 +52,12 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
 <!-- ![Prism.js](https://img.shields.io/badge/Prism.js-1A202C?style=for-the-badge&logo=prism&logoColor=white) -->
 
 #### Tools and Platforms
@@ -70,6 +72,7 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EF1C25?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 <!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 <!-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 <!-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
