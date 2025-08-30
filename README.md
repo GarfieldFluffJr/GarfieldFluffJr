@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louieyin6@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/louiefatooey)
 
-I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwaterloo.ca/)** majoring in Software Engineering. I love building things in my free time and learning new technologies, while pursuing my swimming career at the national level.
+I'm an **Undergraduate Student 🎓 [@ The University of Waterloo](https://uwaterloo.ca/)** majoring in Software Engineering. I love building things in my free time and learning new technologies, while pursuing my swimming career at the national level.
 
 ## ⚡️ About Me
 
@@ -17,7 +17,8 @@ I'm an **Undergraduate Student🎓 [@ The University of Waterloo](https://uwater
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
   - 💻 Full-stack Applications
   - 🎨 UI/UX and 3D Graphic Design
-  - 🐱‍💻 ML/AI
+  - 🤖 ML/AI
+  - 🛠️ Infrastructure
     <!-- - ⚙ Firmware Projects -->
     <!-- - 🧬 I have interests in technological applications in healthcare -->
     <!-- - 💬 Feel free to ask me anything software or swimming related! -->
