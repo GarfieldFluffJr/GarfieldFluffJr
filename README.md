@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=GarfieldFluffJr&color=blue&style=flat) [![Portfolio](https://img.shields.io/badge/Portfolio-louiefatooey.space-blue?style=flat)](https://louiefatooey.space)
 
 Hello, I'm Louie!
-
+<br>
 I'm a **Software Engineer** and **Varsity Athlete** **[@The University of Waterloo](https://uwaterloo.ca/)** <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1683175347/65881/kao_glasses_swimming.gif?1683175347">
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louieyin)
