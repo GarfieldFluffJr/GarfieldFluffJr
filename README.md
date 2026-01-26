@@ -1,19 +1,27 @@
-<h1>Hello! I'm <a href="https://github.com/GarfieldFluffJr">Louie</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
+<h1>Louie Yin <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-### **Software Engineer** and **Varsity Athlete** at the **University of Waterloo** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img height="50px" src="https://emojis.slackmojis.com/emojis/images/1683175347/65881/kao_glasses_swimming.gif?1683175347">
+![Profile Views](https://komarev.com/ghpvc/?username=GarfieldFluffJr&color=blue&style=flat) [![Portfolio](https://img.shields.io/badge/Portfolio-louiefatooey.space-blue?style=flat)](https://louiefatooey.space)
 
-### 📬 Find me on
+Hello, I'm Louie!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louieyin)
+I'm a **Software Engineer** and **Varsity Athlete** **[@The University of Waterloo](https://uwaterloo.ca/)** <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1683175347/65881/kao_glasses_swimming.gif?1683175347">
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louieyin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louieyin6@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/louiefatooey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/louiefatooey) -->
 
-I'm an **Undergraduate Student 🎓 [@ The University of Waterloo](https://uwaterloo.ca/)** majoring in Software Engineering. I love building things in my free time and learning new technologies, while pursuing my swimming career at the national level.
+You can reach me via:
 
-## ⚡️ About Me
+- LinkedIn: [https://www.linkedin.com/in/louieyin](https://www.linkedin.com/in/louieyin)
+- X: [@louiefatooey](https://x.com/louiefatooey)
+- Gmail: [louieyin6@gmail.com](mailto:louieyin6@gmail.com)
 
-- 🏋️‍♂️ I am a **2024 Paris Olympic Trials and Canadian USPORTS Qualifier**
+<!-- I'm an **Undergraduate Student 🎓 [@ The University of Waterloo](https://uwaterloo.ca/)** majoring in Software Engineering. I love building things in my free time and learning new technologies, while pursuing my swimming career at the national level. -->
+
+### About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px">
+
+- 🥇 I am a **2024 Paris Olympic Trials and Canadian USPORTS Qualifier**
+  - I bench 225 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNvbGowZHl6bXV2dHRpaGQzMWVsbnRscjR5dnlmeGxibGEzaG9jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif" width="15">
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
   - 💻 Full-stack Applications
   - 🎨 UI/UX and 3D Graphic Design
@@ -22,15 +30,15 @@ I'm an **Undergraduate Student 🎓 [@ The University of Waterloo](https://uwate
     <!-- - ⚙ Firmware Projects -->
     <!-- - 🧬 I have interests in technological applications in healthcare -->
     <!-- - 💬 Feel free to ask me anything software or swimming related! -->
-- 📙 Check out my [Resume](https://www.louiefatooey.space/resume)
-- 🙀 I have a cat
-- 🎵 I love playing the piano!
+<!-- - 📙 Check out my [Resume](https://www.louiefatooey.space/resume) -->
+- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNvbGowZHl6bXV2dHRpaGQzMWVsbnRscjR5dnlmeGxibGEzaG9jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif" width="15"> I have a cat
+- 🎵 I love to play the piano
 
-### ⚙️ My Tools and Technologies
+<!-- ### ⚙️ My Tools and Technologies -->
 
 <!-- <img width="600px"  src="https://skillicons.dev/icons?i=py,flask,regex,html,css,js,ts,react,nodejs,tailwind,bootstrap,c,cpp,md,git,github,vscode,pycharm,linux,autocad,raspberrypi,heroku,discordjs &perline=12"  /> -->
 
-#### Programming Languages:
+<!-- #### Programming Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -59,11 +67,11 @@ I'm an **Undergraduate Student 🎓 [@ The University of Waterloo](https://uwate
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) -->
 
 <!-- ![Prism.js](https://img.shields.io/badge/Prism.js-1A202C?style=for-the-badge&logo=prism&logoColor=white) -->
 
-#### Tools and Platforms
+<!-- #### Tools and Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -74,7 +82,7 @@ I'm an **Undergraduate Student 🎓 [@ The University of Waterloo](https://uwate
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EF1C25?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) -->
 
 <!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 <!-- ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
