@@ -92,8 +92,11 @@ You can reach me via:
 ### 🚀 Quick Stats
 
 <a href="https://github.com/GarfieldFluffJr/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarfieldFluffJr&langs_count=8&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true" />
- </a>
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarfieldFluffJr&langs_count=8&layout=compact&title_color=D91E69&text_color=ffffff&icon_color=D91E69&bg_color=20232a&border_color=D91E69&hide_border=true" />
+</a>
+<a href="https://github.com/GarfieldFluffJr/">
+      <img height=195 src="https://github-readme-stats.vercel.app/api?username=GarfieldFluffJr&show_icons=true&title_color=D91E69&text_color=ffffff&icon_color=D91E69&bg_color=20232a&border_color=D91E69&hide_border=true" />
+</a>
 
 <hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer" style="width: 100%;"/>
