@@ -84,7 +84,7 @@ I'm an **Undergraduate Student 🎓 [@ The University of Waterloo](https://uwate
 ### 🚀 Quick Stats
 
 <a href="https://github.com/GarfieldFluffJr/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarfieldFluffJr&langs_count=6&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarfieldFluffJr&langs_count=8&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true" />
  </a>
 
 <hr>
