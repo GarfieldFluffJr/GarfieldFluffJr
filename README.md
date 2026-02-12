@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GarfieldFluffJr&color=blue&style=flat) [![Portfolio](https://img.shields.io/badge/Portfolio-louiefatooey.space-blue?style=flat)](https://louiefatooey.space)
 
-Hello, I'm Louie!
+Hello, I'm Louie! Thanks for visiting my profile :)
 <br>
 I'm a **Software Engineer** and **Varsity Athlete** **[@The University of Waterloo](https://uwaterloo.ca/)** <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1683175347/65881/kao_glasses_swimming.gif?1683175347">
 
@@ -95,7 +95,11 @@ You can reach me via:
       <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarfieldFluffJr&langs_count=8&layout=compact&title_color=D91E69&text_color=ffffff&icon_color=D91E69&bg_color=20232a&border_color=D91E69&hide_border=true" />
 </a>
 <a href="https://github.com/GarfieldFluffJr/">
-      <img height=190 src="https://github-readme-stats.vercel.app/api?username=GarfieldFluffJr&show_icons=true&title_color=D91E69&text_color=ffffff&icon_color=D91E69&bg_color=20232a&border_color=D91E69&hide_border=true" />
+      <img height=190 src="https://github-readme-stats.vercel.app/api?username=GarfieldFluffJr&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&title_color=D91E69&text_color=ffffff&icon_color=D91E69&bg_color=20232a&border_color=D91E69&hide_border=true" />
+</a>
+
+<a href="https://github.com/GarfieldFluffJr/">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarfieldFluffJr&theme=react&background=20232a&ring=D91E69&fire=D91E69&currStreakLabel=D91E69&sideLabels=D91E69&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 <hr>
