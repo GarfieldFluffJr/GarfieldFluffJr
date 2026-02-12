@@ -97,7 +97,7 @@ You can reach me via:
 <a href="https://github.com/GarfieldFluffJr/">
       <img height=190 src="https://github-readme-stats.vercel.app/api?username=GarfieldFluffJr&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&title_color=D91E69&text_color=ffffff&icon_color=D91E69&bg_color=20232a&border_color=D91E69&hide_border=true" />
 </a>
-
+<br>
 <a href="https://github.com/GarfieldFluffJr/">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarfieldFluffJr&theme=react&background=20232a&ring=D91E69&fire=D91E69&currStreakLabel=D91E69&sideLabels=D91E69&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" />
 </a>
