@@ -92,10 +92,10 @@ You can reach me via:
 ### 🚀 Quick Stats
 
 <a href="https://github.com/GarfieldFluffJr/">
-      <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarfieldFluffJr&langs_count=8&layout=compact&title_color=D91E69&text_color=ffffff&icon_color=D91E69&bg_color=20232a&border_color=D91E69&hide_border=true" />
+      <img height=190 src="profile/top-langs.svg" />
 </a>
 <a href="https://github.com/GarfieldFluffJr/">
-      <img height=190 src="https://github-readme-stats.vercel.app/api?username=GarfieldFluffJr&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&title_color=D91E69&text_color=ffffff&icon_color=D91E69&bg_color=20232a&border_color=D91E69&hide_border=true" />
+      <img height=190 src="profile/stats.svg" />
 </a>
 <br>
 <a href="https://github.com/GarfieldFluffJr/">
