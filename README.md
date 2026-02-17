@@ -94,7 +94,6 @@ You can reach me via:
 <a href="https://github.com/GarfieldFluffJr/">
       <img height=190 src="profile/top-langs.svg" />
 </a>
-<br>
 <a href="https://github.com/GarfieldFluffJr/">
       <img height=190 src="profile/stats.svg" />
 </a>
