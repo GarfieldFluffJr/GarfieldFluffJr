@@ -1,6 +1,6 @@
 <h1>Louie Yin <img width="30px" height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GarfieldFluffJr&color=blue&style=flat) [![Portfolio](https://img.shields.io/badge/Portfolio-louiefatooey.space-blue?style=flat)](https://louiefatooey.space)
+![Profile Views](https://komarev.com/ghpvc/?username=GarfieldFluffJr&color=blue&style=flat) [![Portfolio](https://img.shields.io/badge/Portfolio-louiefatooey.space-f1e5ff?style=flat)](https://louiefatooey.space)
 
 Hello, I'm Louie! Thanks for visiting my profile :)
 <br>
