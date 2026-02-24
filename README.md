@@ -1,12 +1,8 @@
-<!-- <h1>Louie Yin <img width="30px" height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1> -->
+<h1>Louie Yin <img width="30px" height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-<h1><a href="https://www.louiefatooey.space/" target="_blank"><img src="./Portfolio banner.png" /></a></h1>
+![Profile Views](https://komarev.com/ghpvc/?username=GarfieldFluffJr&color=blue&style=flat) [![Portfolio](https://img.shields.io/badge/Portfolio-louiefatooey.space-blue?style=flat)](https://louiefatooey.space)
 
-![Profile Views](https://komarev.com/ghpvc/?username=GarfieldFluffJr&color=blue&style=flat)
-
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-louiefatooey.space-blue?style=flat)](https://louiefatooey.space) -->
-
-Hello, I'm Louie! Thanks for visiting my profile <img width="30px" height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
+Hello, I'm Louie! Thanks for visiting my profile :)
 <br>
 I'm a **Software Engineer** and **Varsity Athlete** **[@The University of Waterloo](https://uwaterloo.ca/)** <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1683175347/65881/kao_glasses_swimming.gif?1683175347">
 
@@ -31,10 +27,10 @@ You can reach me via:
   - 🎨 UI/UX and 3D Graphic Design
   - 🤖 ML/AI
   - 🛠️ Infrastructure
-  <!-- - ⚙ Firmware Projects -->
-  <!-- - 🧬 I have interests in technological applications in healthcare -->
-  <!-- - 💬 Feel free to ask me anything software or swimming related! -->
-  <!-- - 📙 Check out my [Resume](https://www.louiefatooey.space/resume) -->
+    <!-- - ⚙ Firmware Projects -->
+    <!-- - 🧬 I have interests in technological applications in healthcare -->
+    <!-- - 💬 Feel free to ask me anything software or swimming related! -->
+<!-- - 📙 Check out my [Resume](https://www.louiefatooey.space/resume) -->
 - <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNvbGowZHl6bXV2dHRpaGQzMWVsbnRscjR5dnlmeGxibGEzaG9jYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPzbDN4rBxuvtpSpzF/giphy.gif" width="15"> I have a cat
 - 🎵 I love to play the piano
 
