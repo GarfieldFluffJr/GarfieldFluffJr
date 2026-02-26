@@ -97,10 +97,10 @@ You can reach me via:
 <a href="https://github.com/GarfieldFluffJr/">
       <img height=190 src="profile/stats.svg" />
 </a>
-<!-- <br>
+<br>
 <a href="https://github.com/GarfieldFluffJr/">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarfieldFluffJr&theme=react&background=20232a&ring=D91E69&fire=D91E69&currStreakLabel=D91E69&sideLabels=D91E69&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" />
-</a> -->
+</a>
 
 <hr>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer" style="width: 100%;"/>
